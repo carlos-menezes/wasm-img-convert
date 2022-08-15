@@ -1,4 +1,4 @@
-# wasm-img-convert
+# [wasm-img-convert](https://wasm-img-convert.vercel.app/)
 > In-browser image conversion powered by Rust and WebAssembly.
 
 ![](https://i.imgur.com/xnFDoW9.gif)
@@ -13,4 +13,3 @@
 ## Planned:
 - [ ] Batch conversion
 - [ ] Convert to PDF (PDF is a finicky file format)
-- [ ] Effects (e.g. blur, rotate, etc.)
